@@ -1,0 +1,1 @@
+Data Source=DESKTOP-S866UD2;Initial Catalog=PersonelVeriTabani;Integrated Security=True
